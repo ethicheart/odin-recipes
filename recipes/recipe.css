@@ -1,0 +1,23 @@
+body {
+    background-color: antiquewhite;
+}
+img {
+    height: 300px;
+    width: auto;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+.desc {
+    color: red;
+}
+
+.ingr {
+    color: darkcyan;
+}
+
+.step {
+    color: darkviolet;
+}
